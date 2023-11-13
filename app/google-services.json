@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1070226754291",
+    "firebase_url": "https://my-memory-dfcda-default-rtdb.firebaseio.com",
+    "project_id": "my-memory-dfcda",
+    "storage_bucket": "my-memory-dfcda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070226754291:android:116304b16dfa4a92f7c586",
+        "android_client_info": {
+          "package_name": "com.example.memory_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsYgG_GiDMMOIKP17xb_UuPFgX2nZ-BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070226754291:android:c5e0fe39f7eba2c3f7c586",
+        "android_client_info": {
+          "package_name": "com.example.memory_plyus2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsYgG_GiDMMOIKP17xb_UuPFgX2nZ-BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070226754291:android:dc60313b9b604c5af7c586",
+        "android_client_info": {
+          "package_name": "com.example.save_my_memories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsYgG_GiDMMOIKP17xb_UuPFgX2nZ-BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
